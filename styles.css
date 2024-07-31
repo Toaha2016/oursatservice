@@ -1,5 +1,4 @@
 /* FONT */
-
 .roboto-condensed{
   font-family: "Roboto Condensed", sans-serif;
   font-optical-sizing: auto;
@@ -10,10 +9,15 @@
 /* Nav Bar */
 .head{
     display: flex;
+    justify-content: space-around;
 }
 
 .nav-title{
-    justify-content: right;
     display: flex;
 
+}
+
+/* Button */
+.btn{
+ 
 }
