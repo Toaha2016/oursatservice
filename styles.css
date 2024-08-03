@@ -38,6 +38,9 @@
   border-radius: 20px;
 }
 
+.img002{
+  max-width: 20%;
+}
 
 
 
@@ -80,4 +83,31 @@
 
 .banner{
   text-align: center;
+}
+
+
+/* MAIN SECTION */
+
+.offer{
+  margin: 30px 150px;
+  background-color: rgb(220, 220, 220);
+  padding: 100px;
+  border-radius: 20px;
+}
+
+.p1{
+  font-size: 25px;
+}
+.p2{
+  font-size: 40px;
+  text-align: center;
+}
+.skill{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: aliceblue;
+  border-radius: 20px;
+  padding: 20px;
+
 }
